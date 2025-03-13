@@ -10,11 +10,7 @@ I'm passionate about uncovering insights from data and optimizing processes with
 - **Languages & Queries:** SQL, Python
 - **Data Visualization:** Power BI, Tableau
 - **Data Mining:** Orange Data Mining Tool
-- **Other:** Project Management, Stakeholder Engagement
-
-## 📌 Featured Projects:
-🔹 [Project Name](#) - Brief description (e.g., "Customer segmentation using SQL and Power BI")  
-🔹 [Project Name](#) - Brief description (e.g., "Predictive analytics with Python")  
+- **Other:** Project Management, Stakeholder Engagement 
 
 ## 📫 Connect with Me:
 - LinkedIn: [https://www.linkedin.com/in/johnruffycuanan/](#)
